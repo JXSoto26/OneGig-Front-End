@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "baseUrl": "src"
+  },
+  "include": ["src/**/*", "../onegig-backend/src/utils/saveToPdf.js"],
+  "exclude": ["node_modules"]
+}
